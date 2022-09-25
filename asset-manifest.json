@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/weather/static/css/main.39f63f85.css",
-    "main.js": "/weather/static/js/main.8b010d56.js",
-    "static/media/vector.jpg": "/weather/static/media/vector.d6f86d465b62f577afe5.jpg",
-    "static/media/nube-logo.png": "/weather/static/media/nube-logo.af2c7864f369c66935bd.png",
-    "static/media/line-rain2a(1).svg": "/weather/static/media/line-rain2a(1).05ea7c597cd0243977e1be919674f6cf.svg",
-    "index.html": "/weather/index.html",
-    "main.39f63f85.css.map": "/weather/static/css/main.39f63f85.css.map",
-    "main.8b010d56.js.map": "/weather/static/js/main.8b010d56.js.map"
+    "main.css": "/Weather/static/css/main.c2bcdcc8.css",
+    "main.js": "/Weather/static/js/main.eb95dd50.js",
+    "static/media/vector.jpg": "/Weather/static/media/vector.d6f86d465b62f577afe5.jpg",
+    "static/media/nube-logo.png": "/Weather/static/media/nube-logo.af2c7864f369c66935bd.png",
+    "static/media/line-rain2a(1).svg": "/Weather/static/media/line-rain2a(1).05ea7c597cd0243977e1be919674f6cf.svg",
+    "index.html": "/Weather/index.html",
+    "main.c2bcdcc8.css.map": "/Weather/static/css/main.c2bcdcc8.css.map",
+    "main.eb95dd50.js.map": "/Weather/static/js/main.eb95dd50.js.map"
   },
   "entrypoints": [
-    "static/css/main.39f63f85.css",
-    "static/js/main.8b010d56.js"
+    "static/css/main.c2bcdcc8.css",
+    "static/js/main.eb95dd50.js"
   ]
 }
