@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/time/static/css/main.9f0c743e.css",
+    "main.js": "/time/static/js/main.3803bdb1.js",
+    "static/media/10087.jpg": "/time/static/media/10087.b62bae2dbffa8411dc9b.jpg",
+    "static/media/nube-logo.png": "/time/static/media/nube-logo.af2c7864f369c66935bd.png",
+    "index.html": "/time/index.html",
+    "main.9f0c743e.css.map": "/time/static/css/main.9f0c743e.css.map",
+    "main.3803bdb1.js.map": "/time/static/js/main.3803bdb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0c743e.css",
+    "static/js/main.3803bdb1.js"
+  ]
+}

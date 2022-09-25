@@ -1,0 +1,22 @@
+.malecon {
+    height: auto;
+    height: 400px;
+    background-image: url('../assets/vector.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.malecon-image {
+    width: 100%;
+    height: 1100px;
+    
+}
+
+.malecon-cartel {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
